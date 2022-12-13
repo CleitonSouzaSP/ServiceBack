@@ -1,0 +1,23 @@
+{
+  "name": "serviceback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleitonSouzaSP/ServiceBack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleitonSouzaSP/ServiceBack/issues"
+  },
+  "homepage": "https://github.com/CleitonSouzaSP/ServiceBack#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
