@@ -8,8 +8,6 @@ app.use(bodyParser.json());
 
 app.get('/login', (req, res) => {
     const body = req.body;
-
-    console.log('Usuario não encontrado!');
     res.send('Usuário não encontrado!');
 
 })
